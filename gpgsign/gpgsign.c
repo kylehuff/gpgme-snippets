@@ -1,3 +1,7 @@
+/*
+    To compile this snippet, simply execute `gcc gpgsign.c -lgpgme -o gpgsign`
+    in the same directory as this file.
+*/
 #ifdef HAVE_CONFIG_H
 #include <config.h>
 #endif
